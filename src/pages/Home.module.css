@@ -1,0 +1,22 @@
+.container {
+    padding: 1rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .list {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .coinLink {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .coinLink:hover {
+    color: #00d1b2;
+  }  

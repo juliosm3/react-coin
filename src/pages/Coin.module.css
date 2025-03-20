@@ -1,0 +1,17 @@
+.container {
+    padding: 1rem;
+  }
+  
+  .button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background: #00d1b2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background: #00a99d;
+  }  
